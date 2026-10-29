@@ -278,7 +278,7 @@ font-size: clamp(15px, 25px, 35px);
 
 #program_title{
   font-size: clamp(90px, 100px, 110px);
-  left: 48%;
+  left: 48.5%;
 }
 #program_container h4{
   font-size: clamp(20px, 30px, 40px);
@@ -286,11 +286,11 @@ font-size: clamp(15px, 25px, 35px);
 #program_footer{
   font-size: clamp(40px, 50px, 60px);
   top:83%;
-  left: 48%;
+  left: 48.5%;
 }
 #program_footer2{
   font-size: clamp(20px, 30px, 40px);
-  left: 47%;
+  left: 47.5%;
 }
 }
 
