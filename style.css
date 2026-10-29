@@ -270,7 +270,7 @@ body{
   font-size: clamp(20px, 40px, 60px);
 }
 #letter_card p{
-font-size: clamp(10px, 20px, 30px);
+font-size: clamp(15px, 25px, 35px);
 }
 .span1{
   font-size: clamp(10px, 20px, 30px);
