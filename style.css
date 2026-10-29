@@ -275,6 +275,14 @@ font-size: clamp(15px, 25px, 35px);
 .span1{
   font-size: clamp(10px, 20px, 30px);
 }
+
+#program_title{
+  font-size: clamp(90px, 100px, 110px);
+  left: 47%;
+}
+#program_container h4{
+  font-size: clamp(20px, 30px, 40px);
+}
 }
 
 @media (min-width: 1024px) and (max-width: 1439px){
