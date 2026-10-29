@@ -302,10 +302,10 @@ body{
   margin-bottom:40px;
 }
 #letter_card p{
-  font-size: clamp(15px, 5vw, 30px);
+  font-size: clamp(15px, 25px, 40px);
 }
-#span1{
-  font-size: clamp(15px, 5vw, 30px);
+.span1{
+  font-size: clamp(15px, 25px, 40px);
 }
 
 #program_container{
@@ -366,10 +366,10 @@ body{
   margin-bottom:40px;
 }
 #letter_card p{
-  font-size: clamp(15px, 5vw, 35px);
+  font-size: clamp(15px, 35px, 50px);
 }
-#span1{
-  font-size: clamp(15px, 5vw, 35px);
+.span1{
+  font-size: clamp(15px, 35px, 50px);
 }
 
 #program_container{
