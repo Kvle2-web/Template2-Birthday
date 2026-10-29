@@ -379,6 +379,9 @@ font-size: clamp(15px, 25px, 35px);
 }
 
 #letter_card{
+  width:80%;
+  height:70%;
+  
   padding-left: 50px;
   padding-right: 50px;
 }
@@ -389,16 +392,16 @@ font-size: clamp(15px, 25px, 35px);
   margin-bottom: 30px
 }
 #letter_title h1{
-  font-size: 40px;
+  font-size: clamp(30px, 40px, 60px);
 }
 .letter_paragraph{
   margin-bottom:40px;
 }
 #letter_card p{
-  font-size: clamp(15px, 35px, 50px);
+  font-size: clamp(15px, 25px, 40px);
 }
 .span1{
-  font-size: clamp(15px, 35px, 50px);
+  font-size: clamp(15px, 25px, 40px);
 }
 
 #program_container{
