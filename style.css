@@ -283,6 +283,15 @@ font-size: clamp(15px, 25px, 35px);
 #program_container h4{
   font-size: clamp(20px, 30px, 40px);
 }
+#program_footer{
+  font-size: clamp(40px, 50px, 60px);
+  top:83%;
+  left: 47%;
+}
+#program_footer2{
+  font-size: clamp(20px, 30px, 40px);
+  left: 46%;
+}
 }
 
 @media (min-width: 1024px) and (max-width: 1439px){
