@@ -265,6 +265,10 @@ body{
   color: var(--bg);
 }
 
+@media(min-width: 660px) and (max-width: 1023px){
+
+}
+
 @media (min-width: 1024px) and (max-width: 1439px){
   #title_age{
   font-size: 18rem;
