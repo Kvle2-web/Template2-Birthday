@@ -363,26 +363,26 @@ body{
   margin-bottom:40px;
 }
 #letter_card p{
-  font-size: 25px;
+  font-size: clamp(15px, 5vw, 50px);
 }
 
 #program_container{
-  padding-right: 30px;
+  padding-right: 50px;
 }
 #program_title{
   font-size: 120px;
   left: 48%;
 }
 #program_container h4{
-  font-size: 25px;
+  font-size: 40px;
 }
 #program_footer{
   font-size: 50px;
   top:83%;
-  left: 48%;
+  left: 47%;
 }
 #program_footer2{
   font-size: 30px;
-  left: 47%;
+  left: 46%;
 }
   }
