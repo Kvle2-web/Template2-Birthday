@@ -266,6 +266,15 @@ body{
 }
 
 @media(max-width: 374px){
+#title_age{
+  font-size: 12.5rem;
+}
+#title_name{
+  font-size: 1.5rem;
+}
+#title_container p{
+  font-size: 9px;
+}
   .for_p_space{
   margin-bottom: 10px;
 }
