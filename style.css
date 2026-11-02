@@ -265,25 +265,7 @@ body{
   color: var(--bg);
 }
 
-@media(max-width: 374px){
-#title_age{
-  font-size: 14rem;
-}
-#title_name{
-  font-size: 2rem;
-}
-#title_container p{
-  font-size: 11px;
-}
-  .for_p_space{
-  margin-bottom: 15px;
-}
-.for_p_space2{
-  margin-bottom: 70px;
-}
-.for_p_space3{
-  margin-bottom: 30px;
-}
+@media(max-width: 324px){
   
 #title_age{
   font-size: 12.5rem;
@@ -305,7 +287,26 @@ body{
 }
 }
 
-@media(min-width: 660px) and (max-width: 1023px){
+@media(min-width: 600px) and (max-width: 1023px){
+#title_age{
+  font-size: 14rem;
+}
+#title_name{
+  font-size: 2rem;
+}
+#title_container p{
+  font-size: 11px;
+}
+  .for_p_space{
+  margin-bottom: 15px;
+}
+.for_p_space2{
+  margin-bottom: 70px;
+}
+.for_p_space3{
+  margin-bottom: 30px;
+}
+  
 #letter_title h1{
   font-size: clamp(20px, 40px, 60px);
 }
